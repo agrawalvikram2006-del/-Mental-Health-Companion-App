@@ -1,6 +1,0 @@
-streamlit>=1.30
-pandas>=2.0
-# Optional — only if you want the real fine-tuned BERT model instead of the
-# lightweight fallback. These are large and may exceed free-tier memory:
-# transformers>=4.40
-# torch>=2.2
